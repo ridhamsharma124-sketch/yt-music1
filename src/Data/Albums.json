@@ -1,0 +1,80 @@
+
+    [
+        {
+            "id" :"034746xcfgcgf34346dfcd",
+            "title" : "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+            "image" : "img1.jpg",
+            "artists" : ["Album • Himesh Reshammiya"]
+
+        },
+        
+        {
+            "id" :"034746xdffgcgf3436dfcd",
+            "title" : "TERE NAAM",
+            "image" : "img2.jpg",
+            "artists" : ["Album • Various Artists"]
+
+        },
+        {
+            "id" :"034746xcfgcgf34346fcd",
+            "title" : "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+            "image" : "img3.jpg",
+            "artists" : ["Album • Jatin-Lalit,Sandesh Shandilya & Aadesh Shrivastava"]
+
+        },
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "EVOLUTION FUNK VOL. II",
+            "image" : "img4.jpg",
+            "artists" : ["Album • EVOT"]
+
+        },
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Bhool Bhulaiyaa 3",
+            "image" : "img5.jpg",
+            "artists" : ["EP • Pitbull, Diljit Dosanjh, Neeraj Shridhar &Tanishk Bagchi"]
+
+        },
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Starboy",
+            "image" : "img6.jpg",
+            "artists" : ["Album  • The Weeknd"]
+
+        },
+       
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Aashiqui 2",
+            "image" : "img7.jpg",
+            "artists" : ["Palak Muchhal & Arijit Singh"]
+
+        },
+       
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Hero",
+            "image" : "img8.jpg",
+            "artists" : ["Album • Amaal Mallik, Jassi Katyal,Meet Bros Anjjan Sachin-Jigar"]
+
+        },
+       
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Still Rollin",
+            "image" : "img9.jpg",
+            "artists" : ["Album • Shubh"]
+
+        },
+       
+        {
+            "id" :"034746xcfgcgf343dfdfcd",
+            "title" : "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+            "image" : "img10.jpg",
+            "artists" : ["Album • Jeet Gannguli, Mithoon & Ami Mishra"]
+
+        }
+
+
+       ]

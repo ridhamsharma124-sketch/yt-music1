@@ -1,0 +1,68 @@
+
+
+[
+    {
+      "title": "Relaxing Punjabi Songs",
+      "artists": ["Karan Aujla", "Harnoor", "Jassa Dhillon", "The PropheC"],
+      "image": "pic1.jpg",
+      "width": 170
+    },
+    {
+      "title": "Punjabi Melodies",
+      "artists": ["B Praak", "AP Dhillon", "Diljit Dosanjh", "Shinda Kahlon"],
+      "image": "pic2.jpg",
+      "width": 170
+    },
+    {
+      "title": "Chill with Punjabi Pop",
+      "artists": ["Diljit Dosanjh", "Maninder Buttar", "Jaani", "Shubh"],
+      "image": "pic3.jpg",
+      "width": 170
+    },
+    {
+      "title": "Hindi Coffee Brew",
+      "artists": ["Arijit Singh", "Shreya Ghoshal", "Mohit Chauhan", "Vishal Mishra"],
+      "image": "pic4.jpg",
+      "width": 170
+    },
+    {
+      "title": "Sukoon Ke Pal",
+      "artists": ["Arijit Singh", "A. R. Rahman", "Amitabh Bhattacharya", "Alia Bhatt"],
+      "image": "pic5.jpg",
+      "width": 170
+    },
+    {
+      "title": "Indie Feels",
+      "artists": ["Mitraz, Prateek Kuhad, Raghav Meattle, Lucky Ali"],
+      "image": "pic6.jpg",
+      "width": 170
+    },
+    {
+      "title": "Bollywood Lo-Fi",
+      "artists": ["Arijit Singh, Pritam,  Bollywood Lofi  , Shreya Ghoshal"],
+      "image": "pic7.jpg",
+      "width": 170
+    },
+    {
+      "title": "Upbeat Bollywood",
+      "artists": ["Tanishk Bagchi, Badshah, Arijit Singh, Nikhita Gandhi"],
+      "image": "pic8.jpg",
+      "width": 170
+    },
+    {
+      "title": "Lofi Loft",
+      "artists": ["The Classical Maestro Zakir Hussain | Indian Classical Instrumental Music | Ustad Zakir Khan Tabla Radio"],
+      "image": "pic9.jpg",
+      "width": 170
+    },
+    {
+      "title": "Ghazal Essentials",
+      "artists": ["Playlist • YouTube Music • 50 songs"],
+      "image": "pic10.jpg",
+      "width": 170
+    }
+  
+    
+ 
+  ]
+  
