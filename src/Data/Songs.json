@@ -1,0 +1,78 @@
+
+[
+   
+    {
+        "id" :"034746xcfgcgf34346dfcd",
+        "title" : "90s Bollywood Sangeet",
+        "image" : "img21.jpg",
+        "artists" : ["Alka Yagnik, Lata Mangeshkar, Udit Narayan, Kumar Sanu"]
+
+    },
+    {
+        "id" :"034746xdffgcgf3436dfcd",
+        "title" : "Bollywood Fire",
+        "image" : "img22.jpg",
+        "artists" : ["Neha Kakkar, Shreya Ghoshal, Sachin Jigar, Tanishk Bagchi"]
+
+    },
+    {
+        "id" :"034746xcfgcgf34346fcd",
+        "title" : "Bollywood Romance Hitlist",
+        "image" : "img23.jpg",
+        "artists" : ["Arijit Singh, Amitabh Bhattacharya, Vishal Mishra, Sachin Jigar"]
+
+    },
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "Bollywood Dance Essentials",
+        "image" : "img24.jpg",
+        "artists" : ["Neha Kakkar, Arijit Singh, Badshah, Tanishk Bagchi"]
+
+    },
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "90s Bollywood Dance",
+        "image" : "img25.jpg",
+        "artists" : ["Udit Narayan, Alka Yagnik, Kavita Krishnamurthy, Abhijeet Bhattacharya"]
+
+    },
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "00s Bollywood Dance",
+        "image" : "img26.jpg",
+        "artists" : ["Sunidhi Chauhan, Sonu Nigam, KK, Shankar Mahadevan"]
+
+    },
+   
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "Bollywood Party",
+        "image" : "img27.jpg",
+        "artists" : ["Badshah, Tanishk Bagchi, Arijit Singh, Vishal - Shekhar"]
+
+    },
+   
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "Bollywood Sangeet",
+        "image" : "img28.jpg",
+        "artists" : ["Badshah, Tanishk Bagchi, Arijit Singh, Neha Kakkar"]
+
+    },
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "Bridal Entry",
+        "image" : "img29.jpg",
+        "artists" : ["Arijit Singh, Pritam, Amitabh Bhattacharya, Shreya Ghoshal"]
+
+    },
+    {
+        "id" :"034746xcfgcgf343dfdfcd",
+        "title" : "Bollywood Dance Hitlist",
+        "image" : "img30.jpg",
+        "artists" : ["Badshah, Amitabh Bhattacharya, Sachin Jigar, Tanishk Bagchi"]
+
+    }
+
+
+   ]
